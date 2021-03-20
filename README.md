@@ -8,7 +8,7 @@ You can use a shell script to install it.
 remember dont turn off your internet connection  
 
 follow these steps :  
-1. [uninstall termux app]  
+1. uninstall termux app
 2. Newly install Termux app  
 3. open Termux app  
 4. run these commands  
