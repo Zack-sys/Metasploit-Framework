@@ -13,13 +13,13 @@ follow these steps :
 4. run these commands  
  
 Type this following command:
-$ apt update  
-$ apt upgrade  
-$ apt install wget  
+* $ apt update  
+* $ apt upgrade  
+* $ apt install wget  
 
 5. clone metasploit with this command   
-$ wget https://Auxilus.github.io/metasploit.sh  
-$ bash metasploit.sh  
+* $ wget https://Auxilus.github.io/metasploit.sh  
+* $ bash metasploit.sh  
 
 This script will install the latest version of metasploit-framework.  
 
@@ -35,9 +35,9 @@ to install metasploit in termux
 
 after installation type this command :  
 
-$ cd metasploit-framework  
+* $ cd metasploit-framework  
 
 Now run msfconsole   
-$ ./msfconsole  
+* $ ./msfconsole  
 
 Enjoy metasploit....
